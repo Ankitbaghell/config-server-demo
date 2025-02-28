@@ -1,3 +1,6 @@
 spring:
   application:
     name: user-service-dev
+
+custom:
+  message: "Hello from Dev Profile!"
